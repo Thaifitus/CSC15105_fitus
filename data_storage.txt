@@ -1,0 +1,3 @@
+Question answering dataset and sentence similarity dataset are stored in the below link:
+
+https://github.com/Thaifitus/data_storage.git
