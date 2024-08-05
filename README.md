@@ -11,14 +11,12 @@ The project is about question answering system which is organized into two probl
 # Task list
 My work in each problem:
 
-Sentence similarity
-* EDA: load the data to Pandas DataFrame and implement analysis (rows, columns, duplication, length distribution, label distribution).
-* Survey model: load and retrain pre-trained model using sentence_transformers API with cosine similarity; evaluate model using accuracy, recall, precision, f1 by scikit-learn.
-
-Question answering
+1. Sentence similarity
+* EDA: load the data to Pandas DataFrame and implement **analysis** (rows, columns, duplication, length distribution, label distribution).
+* Survey model: load and **retrain** pre-trained model using sentence_transformers API with **cosine similarity**; evaluate model using **accuracy, recall, precision, f1** by scikit-learn.
+2. Question answering
 * Study data structure and research PhoBERT theoretically.
-
-I made slides 30 - 37 in `Slide_sentence_similarity.pdf`; 2 - 8 in `Slide_question_answering.pdf`.
+3. I made slides 30 - 37 in `Slide_sentence_similarity.pdf`; 2 - 8 in `Slide_question_answering.pdf`.
 
 # Reproduce result
 To reproduce results, upload notebook files (.ipynb) to Google Colab (please provide item(s) if required) and `Run all` cells.
