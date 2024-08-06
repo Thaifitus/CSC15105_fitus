@@ -13,7 +13,7 @@ My work in each problem:
 
 1. Sentence similarity
 * EDA: load the data to Pandas DataFrame and implement **analysis** (rows, columns, duplication, length distribution, label distribution).
-* Survey model: load and **retrain** pre-trained model using sentence_transformers API with **cosine similarity**; evaluate model using **accuracy, recall, precision, f1** by scikit-learn.
+* Survey model: load and **retrain** pre-trained model using sentence_transformers API with **cosine similarity**; evaluate model using **accuracy, recall, precision, F1** by scikit-learn.
 2. Question answering
 * Study data structure and research PhoBERT theoretically.
 3. I made slides 30 - 37 in `Slide_sentence_similarity.pdf`; 2 - 8 in `Slide_question_answering.pdf`.
